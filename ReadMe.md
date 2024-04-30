@@ -1,4 +1,4 @@
-This repository holds the codebase for your internship project. Let's get you started!
+  This repository holds the codebase for your internship project. Let's get you started!
 
 Forking and Cloning:
 
